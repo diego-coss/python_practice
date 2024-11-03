@@ -1,2 +1,11 @@
-# python_practice
-A collection of small python projects used for implementing algorithms with python
+# Project Title: python_practice
+
+Practicing implementing algorithims in python.
+
+## Requirements
+
+Requires python 3.11.7
+
+## Installation
+
+## Usage
