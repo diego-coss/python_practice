@@ -47,8 +47,7 @@ def get_course_scores():
     return(results)
 
 
-# FIXME: complete the body of the following function. Use a 'for' loop to
-#        iterate over the values in the 'course_results' list.
+
 def get_maximum(course_results):
     """
     Returns the single largest number from the list of test scores passed as a
